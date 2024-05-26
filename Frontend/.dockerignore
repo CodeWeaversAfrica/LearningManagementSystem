@@ -1,0 +1,14 @@
+# Node.js files
+node_modules
+npm-debug.log
+yarn-error.log
+
+# Local development artifacts
+.idea
+.vscode
+.DS_Store
+*.log
+
+# Docker files
+Dockerfile
+docker-compose.yml

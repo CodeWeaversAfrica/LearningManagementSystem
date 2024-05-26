@@ -1,0 +1,21 @@
+dockerignore
+# Python files
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.env
+
+# Django static files
+/static
+
+# Local development artifacts
+.idea
+.vscode
+.DS_Store
+*.log
+*.sqlite3
+
+# Docker files
+Dockerfile
+docker-compose.yml
